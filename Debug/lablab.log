@@ -1,0 +1,17 @@
+﻿Построение начато 11.09.2020 10:58:12.
+     1>Проект "D:\19BB3\lablab\lablab\lablab.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Создание "Debug\lablab.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+       Link:
+         Для всех выходных данных обновления не требуется.
+         lablab.vcxproj -> D:\19BB3\lablab\Debug\lablab.exe
+       FinalizeBuildStatus:
+         Файл "Debug\lablab.unsuccessfulbuild" удаляется.
+         Обращение к "Debug\lablab.lastbuildstate".
+     1>Построение проекта "D:\19BB3\lablab\lablab\lablab.vcxproj" завершено (целевые объекты build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:00.07
